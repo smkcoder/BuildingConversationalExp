@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-25T01:10:35.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="J1FaHqOnKCZFHMBgq96Z" version="13.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-05-25T06:36:38.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="gIOZG65p___IAEEG2pwE" version="13.1.0" type="github" pages="3">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1186" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -321,18 +321,6 @@
       <root>
         <mxCell id="8GD9nCWIn11U9y9nbCpM-0" />
         <mxCell id="8GD9nCWIn11U9y9nbCpM-1" parent="8GD9nCWIn11U9y9nbCpM-0" />
-        <mxCell id="8GD9nCWIn11U9y9nbCpM-13" value="Engineering" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="296" y="1146" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8GD9nCWIn11U9y9nbCpM-64" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 6&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;New&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Construction&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="55.999999999999915" y="1178" width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="8GD9nCWIn11U9y9nbCpM-65" value="ON-DEMAND SYSTEM DEVELOPMENT" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="20.499999999999915" y="1218" width="400" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8GD9nCWIn11U9y9nbCpM-66" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;&lt;strong&gt;Process&lt;/strong&gt; 6&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;New&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Construction&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="181.99999999999991" y="1149" width="110" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="8GD9nCWIn11U9y9nbCpM-1" source="8GD9nCWIn11U9y9nbCpM-67" target="8GD9nCWIn11U9y9nbCpM-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -360,16 +348,16 @@
           <mxGeometry x="52" y="15" width="534" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GD9nCWIn11U9y9nbCpM-76" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;FULFILMENT&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="46" y="822" width="111" height="28" as="geometry" />
+          <mxGeometry x="22" y="1284" width="111" height="28" as="geometry" />
         </mxCell>
         <mxCell id="8GD9nCWIn11U9y9nbCpM-77" value="&lt;b&gt;Fulfilment :&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Fulfillment is where your custom code goes and bind your intent to cloud functions&lt;/div&gt;&lt;div&gt;- Add some custom code you can do it under the fulfillment tab.&lt;/div&gt;&lt;div&gt;- It works on cloud functions&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;***&amp;nbsp;&amp;nbsp;Fulfillment is the &lt;font color=&quot;#ff0000&quot;&gt;mapping of an action&lt;/font&gt; using &lt;font color=&quot;#ff0000&quot;&gt;code&lt;/font&gt; that is deployed &lt;font color=&quot;#ff0000&quot;&gt;outside of dialogue flow.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;Agent execute Business logic on intent by internet basis&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="46" y="701" width="512" height="116" as="geometry" />
+          <mxGeometry x="22" y="1163" width="512" height="116" as="geometry" />
         </mxCell>
         <mxCell id="8GD9nCWIn11U9y9nbCpM-79" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 16px&quot;&gt;CONTEX&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="47" y="576" width="90" height="29" as="geometry" />
+          <mxGeometry x="47" y="604" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8GD9nCWIn11U9y9nbCpM-80" value="&lt;b&gt;CONTEX :&amp;nbsp;&lt;br&gt;&lt;/b&gt;Contexts allows the agent to control conversation flows." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="47" y="537" width="306" height="32" as="geometry" />
+          <mxGeometry x="47" y="565" width="306" height="32" as="geometry" />
         </mxCell>
         <mxCell id="8GD9nCWIn11U9y9nbCpM-81" value="The machine learning model checks the query against every intent in the agent, &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;gives every intent a score, and the highest-scoring intent is matched. &lt;br&gt;If the &lt;span style=&quot;background-color: rgb(255 , 255 , 102)&quot;&gt;highest scoring intent has a very low score&lt;/span&gt;, the &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;fallback&lt;/font&gt;&lt;/b&gt; intent is matched." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
           <mxGeometry x="314" y="82" width="435" height="46" as="geometry" />
@@ -582,50 +570,53 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-60" value="INTENT&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="292" y="631" width="57" height="18" as="geometry" />
+          <mxGeometry x="292" y="659" width="57" height="18" as="geometry" />
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="8GD9nCWIn11U9y9nbCpM-1" source="O8mLb7zLuLprbMkiuQk7-61" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="332.344827586207" y="630.655172413793" as="targetPoint" />
+            <mxPoint x="332.344827586207" y="658.655172413793" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-61" value="INPUT CONTEX (Active)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="140.5" y="600" width="143" height="18" as="geometry" />
+          <mxGeometry x="140.5" y="628" width="143" height="18" as="geometry" />
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-62" value="OUTPUT CONTEX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="140.5" y="662" width="112" height="18" as="geometry" />
+          <mxGeometry x="140.5" y="690" width="112" height="18" as="geometry" />
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-63" value="close match and if the context is active." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="303" y="590" width="219" height="18" as="geometry" />
+          <mxGeometry x="303" y="618" width="219" height="18" as="geometry" />
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-65" value="Maintain the contexts active after the intent matched.&lt;br&gt;This allows the agent to control the conversation flow." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="259" y="652" width="294" height="32" as="geometry" />
+          <mxGeometry x="259" y="680" width="294" height="32" as="geometry" />
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-67" value="Intent that corresponds to Action to be taken agent can talk external system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="46" y="862" width="410" height="18" as="geometry" />
+          <mxGeometry x="22" y="1324" width="410" height="18" as="geometry" />
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="8GD9nCWIn11U9y9nbCpM-1" source="O8mLb7zLuLprbMkiuQk7-68" target="O8mLb7zLuLprbMkiuQk7-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-68" value="Intent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="59" y="928" width="40" height="18" as="geometry" />
+          <mxGeometry x="35" y="1390" width="40" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="O8mLb7zLuLprbMkiuQk7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;exitX=1.036;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;" parent="8GD9nCWIn11U9y9nbCpM-1" source="O8mLb7zLuLprbMkiuQk7-69" target="O8mLb7zLuLprbMkiuQk7-70" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="O8mLb7zLuLprbMkiuQk7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;exitX=1.036;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;" parent="8GD9nCWIn11U9y9nbCpM-1" source="O8mLb7zLuLprbMkiuQk7-69" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="277.1500000000001" y="1416.6" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-69" value="Fullfilment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="130" y="928" width="65" height="18" as="geometry" />
+          <mxGeometry x="106" y="1390" width="65" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="O8mLb7zLuLprbMkiuQk7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" parent="8GD9nCWIn11U9y9nbCpM-1" source="O8mLb7zLuLprbMkiuQk7-70" edge="1">
+        <mxCell id="O8mLb7zLuLprbMkiuQk7-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF0000;" parent="8GD9nCWIn11U9y9nbCpM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="196.48275862068965" y="930.6551724137933" as="targetPoint" />
+            <mxPoint x="172.48275862068965" y="1392.6551724137933" as="targetPoint" />
+            <mxPoint x="267.8499999999999" y="1387" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O8mLb7zLuLprbMkiuQk7-70" value="Action to be taken&lt;br&gt;(Webhook)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#aa00ff;strokeColor=#7700CC;fontColor=#ffffff;" parent="8GD9nCWIn11U9y9nbCpM-1" vertex="1">
-          <mxGeometry x="281" y="893" width="155" height="80" as="geometry" />
+          <mxGeometry x="281" y="1052" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PPCV0okxLA9_Zpehtucu-0" value="LAB 2:&amp;nbsp;&lt;a href=&quot;https://mohameddhaoui.github.io/dataengineering/chatbot2/&quot;&gt;https://mohameddhaoui.github.io/dataengineering/chatbot2/&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="8GD9nCWIn11U9y9nbCpM-1">
-          <mxGeometry x="46" y="519" width="366" height="18" as="geometry" />
+          <mxGeometry x="46" y="547" width="366" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
