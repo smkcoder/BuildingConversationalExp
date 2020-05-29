@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-28T13:32:34.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="d0TuHSbOXl6tzzpYu42z" version="13.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-05-29T06:09:57.521Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="6D1xfhgcMC7qb6MslbMq" version="13.1.3" type="github" pages="6">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1426" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1365,7 +1365,7 @@
     </mxGraphModel>
     
   </diagram>
-  <diagram id="h3_b7gffdQwMrxZXtyJx" name="Page-5">
+  <diagram id="h3_b7gffdQwMrxZXtyJx" name="HealthKit">
     <mxGraphModel dx="1426" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CT6vgT8u28KGC8Ecxago-0" />
@@ -1452,6 +1452,100 @@
         </mxCell>
         <mxCell id="CT6vgT8u28KGC8Ecxago-31" value="&lt;span&gt;Display Reading on Homescreen&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="CT6vgT8u28KGC8Ecxago-1">
           <mxGeometry x="92" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P4Kb3bIecuZOxqRPX80h" name="CI/CD">
+    <mxGraphModel dx="1426" dy="754" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="AVb8IYfbYi4PxDFSKJkM-0" />
+        <mxCell id="AVb8IYfbYi4PxDFSKJkM-1" parent="AVb8IYfbYi4PxDFSKJkM-0" />
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-16" target="nva_uSXv4JlaCD3JSS9l-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-0" value="Code Checked in Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="58" y="207" width="84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-2" target="nva_uSXv4JlaCD3JSS9l-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-2" value="Git Clone Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="287.5" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-4" value="Android Studio Docker&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="281" y="183" width="133" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-6" target="nva_uSXv4JlaCD3JSS9l-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-6" value="APK Generation Command" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="287.5" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-7" target="nva_uSXv4JlaCD3JSS9l-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-7" value="Unit Test Executed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="290" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-9" target="nva_uSXv4JlaCD3JSS9l-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-9" value="Connect Sucelab and Push API + UITest&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="290" y="468" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-10" value="Sauce Lab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="508" y="472" width="67" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-11" target="nva_uSXv4JlaCD3JSS9l-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-11" value="Installs the APK + UI Test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="501" y="503" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-13" target="nva_uSXv4JlaCD3JSS9l-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-13" value="Performs UI Test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="501" y="581" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-14" value="Test Report Published as Log" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="501" y="659" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-15" value="System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="60" y="183" width="50" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-18" target="nva_uSXv4JlaCD3JSS9l-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-18" value="Log Received From SouceLab" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="294" y="661" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-19" target="nva_uSXv4JlaCD3JSS9l-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-19" value="API called To Update the Test Report to GitLab" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="298" y="751" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-29" value="GitLab" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="144.5" y="741" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-31" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="26" y="207" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-16" value="GitLab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="182" y="226" width="45" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-0" target="nva_uSXv4JlaCD3JSS9l-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142" y="237" as="sourcePoint" />
+            <mxPoint x="287.5" y="245" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
