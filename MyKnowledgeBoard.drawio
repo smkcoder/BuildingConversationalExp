@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T06:24:10.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="MaikGziaIgqDTqsjWEgh" version="13.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-06-01T07:42:31.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="RRwa0YpyDkyy2riQZgqZ" version="13.1.8" type="github" pages="6">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1563,11 +1563,17 @@
         <mxCell id="nva_uSXv4JlaCD3JSS9l-2" value="Git Clone Master" style="rounded=1;whiteSpace=wrap;html=1;" parent="AVb8IYfbYi4PxDFSKJkM-1" vertex="1">
           <mxGeometry x="281.5" y="141" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nva_uSXv4JlaCD3JSS9l-4" value="Android Studio Docker&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AVb8IYfbYi4PxDFSKJkM-1" vertex="1">
-          <mxGeometry x="275" y="109" width="133" height="18" as="geometry" />
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-4" value="iOS and Android Build" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="AVb8IYfbYi4PxDFSKJkM-1" vertex="1">
+          <mxGeometry x="278" y="109" width="127" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="nva_uSXv4JlaCD3JSS9l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="AVb8IYfbYi4PxDFSKJkM-1" source="nva_uSXv4JlaCD3JSS9l-6" target="nva_uSXv4JlaCD3JSS9l-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nva_uSXv4JlaCD3JSS9l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.083;exitY=0.763;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="AVb8IYfbYi4PxDFSKJkM-1" source="g9-Y4y1IVOJ0izTEN3iP-25" target="nva_uSXv4JlaCD3JSS9l-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="319" />
+              <mxPoint x="447" y="291" />
+              <mxPoint x="344" y="291" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nva_uSXv4JlaCD3JSS9l-6" value="APK Generation Command" style="rounded=1;whiteSpace=wrap;html=1;" parent="AVb8IYfbYi4PxDFSKJkM-1" vertex="1">
           <mxGeometry x="281.5" y="221" width="120" height="60" as="geometry" />
@@ -1712,6 +1718,21 @@
         </mxCell>
         <mxCell id="g9-Y4y1IVOJ0izTEN3iP-21" value="Android" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
           <mxGeometry x="752" y="109" width="51" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="g9-Y4y1IVOJ0izTEN3iP-22" value="" style="shape=link;html=1;" edge="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="225" as="sourcePoint" />
+            <mxPoint x="235" y="78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g9-Y4y1IVOJ0izTEN3iP-23" value="ADEVOPS Plugin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="185" y="62" width="105" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="g9-Y4y1IVOJ0izTEN3iP-24" value="ADOP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="317" y="90" width="44" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="g9-Y4y1IVOJ0izTEN3iP-25" value="Sonar Cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="AVb8IYfbYi4PxDFSKJkM-1">
+          <mxGeometry x="489" y="258" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
